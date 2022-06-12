@@ -11,3 +11,5 @@ Packages included are FS, Jest, and Inquirer
 This node app uses inquirer to add and remove employees to a webpage and the employees can be registered as managers, engineers, or interns.
 
 ## 05 Videos and links
+[https://drive.google.com/file/d/1uOIZIuxVD2CPiyiZIbNOofRDKOZRxkqK/view?usp=sharing]Video Tutorial
+[https://github.com/bonomichael98/employee-manager]Github
